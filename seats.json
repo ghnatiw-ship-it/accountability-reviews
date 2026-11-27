@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "Gagan", "seat": "General Manager - Eloise & Bar Cart", "venue": "ecc",
+      "name": "Justin", "note": "New in this seat on the accountability chart as of Nov 27, 2026. Results before then are the venue's, not his.", "seat": "General Manager - Eloise & Bar Cart", "venue": "ecc",
       "accountabilities": [
         {"name": "LMA", "measure": null},
         {"name": "Guest Experience", "measure": "guest_issues"},

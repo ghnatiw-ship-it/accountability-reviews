@@ -282,6 +282,7 @@ def render(results, week):
     for r in results:
         p = r["person"]
         out.append(f"<div class='card'><h2>{e(p['name'])} {_pill(r['overall'])}</h2><div class='m'>{e(p['seat'])}</div>"
+                   + (f"<div class='m'><i>{e(p['note'])}</i></div>" if p.get("note") else "") +
                    "<div class='scroll'><table><tr><th>Accountability</th><th>Status</th><th>This week</th><th>Goal / comparison</th></tr>")
         for i in r["items"]:
             out.append(f"<tr><td>{e(i['name'])}</td><td>{_pill(i['status'])}</td><td>{e(i['value'])}</td><td>{e(i.get('target', ''))}</td></tr>")
