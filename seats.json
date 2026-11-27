@@ -1,0 +1,61 @@
+{
+  "_about": "One entry per person. Accountabilities are copied from the Ninety accountability chart (read 2026-11-27). 'measure' names a function in review.py; null = no data connected yet.",
+  "people": [
+    {
+      "name": "Jenn", "seat": "General Manager - Scotland Yard", "venue": "sy",
+      "accountabilities": [
+        {"name": "LMA", "measure": null},
+        {"name": "Guest Experience", "measure": "guest_issues"},
+        {"name": "Income Statement", "measure": "sales"},
+        {"name": "Health & Safety", "measure": null},
+        {"name": "Labour", "measure": "labour"},
+        {"name": "Processes", "measure": "logbook"}
+      ]
+    },
+    {
+      "name": "Doreen", "seat": "General Manager - Old Spaghetti Factory", "venue": "osf",
+      "accountabilities": [
+        {"name": "LMA", "measure": null},
+        {"name": "Guest Experience", "measure": "guest_issues"},
+        {"name": "Income Statement", "measure": "sales"},
+        {"name": "Labour", "measure": "labour"},
+        {"name": "Processes", "measure": "logbook"}
+      ]
+    },
+    {
+      "name": "Gagan", "seat": "General Manager - Eloise & Bar Cart", "venue": "ecc",
+      "accountabilities": [
+        {"name": "LMA", "measure": null},
+        {"name": "Guest Experience", "measure": "guest_issues"},
+        {"name": "Income Statement", "measure": "sales"},
+        {"name": "Labour", "measure": "labour"},
+        {"name": "Processes", "measure": "logbook"}
+      ]
+    },
+    {
+      "name": "Andy", "seat": "General Manager - Dolly's", "venue": "dollys",
+      "accountabilities": [
+        {"name": "LMA", "measure": null},
+        {"name": "Guest Experience", "measure": "guest_issues"},
+        {"name": "Income Statement", "measure": "sales"},
+        {"name": "Labour", "measure": "labour"},
+        {"name": "Ops ordering", "measure": null},
+        {"name": "Large group bookings/ buyouts/event planning", "measure": null},
+        {"name": "AV (in Adam's absence)", "measure": null},
+        {"name": "Email inbox management", "measure": null},
+        {"name": "Security Management and Liasing", "measure": null},
+        {"name": "Processes", "measure": "logbook"}
+      ]
+    },
+    {
+      "name": "Glen", "seat": "Manager - Cathedral", "venue": "cath",
+      "accountabilities": [
+        {"name": "LMA", "measure": null},
+        {"name": "Guest Experience", "measure": "guest_issues"},
+        {"name": "Income Statement", "measure": "sales"},
+        {"name": "Personnel", "measure": "labour"},
+        {"name": "Scorecard", "measure": null}
+      ]
+    }
+  ]
+}
